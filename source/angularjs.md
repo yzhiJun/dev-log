@@ -7,3 +7,4 @@
 - [Angular Unit Testing Quick Start](http://angulartestingquickstart.com) #tutorial #testing
 - [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) #repository
 - [Upgrading apps to Angular 2 using ngUpgrade](http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html) #article #tutorial
+- [spotting-outdated-angular-1-dot-x-posts](http://www.codelord.net/2016/11/23/spotting-outdated-angular-1-dot-x-posts) #article #tutorial
