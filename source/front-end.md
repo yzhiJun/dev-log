@@ -19,4 +19,5 @@
 - [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.9iycc79pa) #article
 - [前端组件化开发方案及其在React Native中的运用](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484416&idx=1&sn=b49e58890145da84b427535741dfc7c1&chksm=972366c2a054efd49cf6816c6ce9b267c2e65a18758bcfa54a11c7942df6d820e2b2c18dfc1a&scene=4#wechat_redirect) #article
 - [美团点评酒旅前端的技术体系](https://zhuanlan.zhihu.com/p/23976121) #article
+- [前端工程化开发方案app-proto](https://zhuanlan.zhihu.com/p/24866514) #article
 - [前端技术体系大局观](https://zhuanlan.zhihu.com/p/23185351) #article
