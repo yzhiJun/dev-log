@@ -21,3 +21,5 @@
 - [美团点评酒旅前端的技术体系](https://zhuanlan.zhihu.com/p/23976121) #article
 - [前端工程化开发方案app-proto](https://zhuanlan.zhihu.com/p/24866514) #article
 - [前端技术体系大局观](https://zhuanlan.zhihu.com/p/23185351) #article
+- [Node直出理论与实践总结](https://github.com/joeyguo/blog/issues/8) #article
+- [React同构直出优化总结](https://github.com/joeyguo/blog/issues/9) #article
